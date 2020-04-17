@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C6437A57-1FCB-4045-AF84-801920882D44"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA283256-24C3-4BBA-BE68-3B58CE4FF913"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitTest/Custom/BackendUtilities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "clickedDetailSearch(_:_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA283256-24C3-4BBA-BE68-3B58CE4FF913 - 64137d4c10085be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static GitTest.BackendUtilities.clickedDetailSearch(_: Swift.String, _: Swift.String, completionHandler: (__C.NSArray, Swift.Int, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "GitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/GitTest_15Apr/GitTest/GitTest/Custom/BackendUtilities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "609">
+               </Location>
+               <Location
+                  uuid = "FA283256-24C3-4BBA-BE68-3B58CE4FF913 - b91732e19fae295"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSArray, Swift.Bool, Swift.Int) -&gt; () in static GitTest.BackendUtilities.clickedDetailSearch(_: Swift.String, _: Swift.String, completionHandler: (__C.NSArray, Swift.Int, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "GitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/GitTest_15Apr/GitTest/GitTest/Custom/BackendUtilities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DA0BB1E-0EB4-49BF-8EA9-F0AB0CDAC213"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitTest/Custom/BackendUtilities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "clickedDetailSearch(_:_:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
